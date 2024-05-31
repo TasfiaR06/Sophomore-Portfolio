@@ -5,7 +5,15 @@ ul {
   overflow: hidden;
   background-color: #F4C2C2;
 }
-h1,h2,h3{
+h1 {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+h3 {
   text-align: center;
 }
 
